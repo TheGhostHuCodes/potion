@@ -30,4 +30,8 @@ syntax match potionNumber "\v(^|\s+)[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?"
 syntax match potionNumber "\v(^|\s+)0[xX][0-9a-fA-F]+"
 highlight link potionNumber Number
 
+syntax region potionString start=/\v"/ skip=/\v\\./ end=/\v"/
+syntax region potionString start=/\v\'/ skip=/\v\\./ end=/\v\'/
+highlight link potionString String
+
 let b:current_syntax = "potion"

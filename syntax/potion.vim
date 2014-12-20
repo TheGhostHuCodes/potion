@@ -26,8 +26,8 @@ syntax match potionOperator "\v-\="
 syntax match potionOperator "\v/[a-zA-Z_][0-9a-zA-Z_]*"
 highlight link potionOperator Operator
 
-syntax match potionNumber "\v[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?"
-syntax match potionNumber "\v0[xX][0-9a-fA-F]+"
+syntax match potionNumber "\v(^|\s+)[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?"
+syntax match potionNumber "\v(^|\s+)0[xX][0-9a-fA-F]+"
 highlight link potionNumber Number
 
 let b:current_syntax = "potion"

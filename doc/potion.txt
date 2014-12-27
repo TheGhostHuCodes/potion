@@ -19,10 +19,9 @@ CONTENTS                                                        *PotionContents*
 
     1. Usage ........................... |PotionUsage|
     2. Mappings ........................ |PotionMappings|
-    3. Bugs ............................ |PotionBugs|
-    4. Contributing .................... |PotionContributing|
-    5. Changelog ....................... |PotionChangelog|
-    6. Credits ......................... |PotionCredits|
+    3. Contributing .................... |PotionContributing|
+    4. Changelog ....................... |PotionChangelog|
+    5. Credits ......................... |PotionCredits|
 
 ================================================================================
 Section 1: Usage                                                   *PotionUsage*
@@ -31,13 +30,11 @@ Section 1: Usage                                                   *PotionUsage*
 Section 2: Mappings                                             *PotionMappings*
 
 ================================================================================
-Section 3: Bugs                                                     *PotionBugs*
+Section 3: Contributing                                     *PotionContributing*
+
 
 ================================================================================
-Section 4: Contributing                                     *PotionContributing*
+Section 4: Changelog                                           *PotionChangelog*
 
 ================================================================================
-Section 5: Changelog                                           *PotionChangelog*
-
-================================================================================
-Section 6: Credits                                               *PotionCredits*
+Section 5: Credits                                               *PotionCredits*

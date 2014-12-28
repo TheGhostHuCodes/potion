@@ -38,3 +38,12 @@ Section 4: Changelog                                           *PotionChangelog*
 
 ================================================================================
 Section 5: Credits                                               *PotionCredits*
+
+The only reason I've spent any time working with the Potion programming
+language and this plugin is because of Steve Losh and his fantastic book: Learn
+VimScript the Hard Way. I highly recommend you read through it if you're even
+remotely interested in writing your own vim plugins, or if you just want to
+better understand all those bits and pieces that you've copied into your .vimrc
+file from various sources all these years.
+
+http://learnvimscriptthehardway.stevelosh.com/

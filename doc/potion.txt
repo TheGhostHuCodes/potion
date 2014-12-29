@@ -32,6 +32,9 @@ Section 2: Mappings                                             *PotionMappings*
 ================================================================================
 Section 3: Contributing                                     *PotionContributing*
 
+Pull requests are always welcome!
+
+https://github.com/TheGhostHuCodes/potion
 
 ================================================================================
 Section 4: Changelog                                           *PotionChangelog*
